@@ -1,13 +1,14 @@
-// Anotações do Topico: Anatomia de classes
+package etapa1_sintaxe_basica.modulo1_introducao;
 
-public class MinhaClasse {
+// === ANOTAÇÕES DO TÓPICO: ANATOMIA DE CLASSES ===
 
+public class AnatomiaClasses {
     public static void main(String[] args) {
-        System.out.println("Ola, Mundo");
+        System.out.println("Ola, Diego Tavares");
 
-        // Final indica que nao pode ser alterada, nome todo em caixa alta.
-        final String BR = "Brasil";
-        System.out.println(BR);
+        // palavras reservadas
+        final String PAIS = "Brasil";
+        System.out.println(PAIS);
 
         // Estudadando metodos
         String primeiroNome = "Diego";
@@ -23,4 +24,5 @@ public class MinhaClasse {
         return "Resultado do metodo " + primeiroNome.concat(" ").concat(segundoNome);
 
     }
+
 }
