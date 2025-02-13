@@ -4,6 +4,7 @@ public class AnatomiaClasses {
     public static void main(String[] args) {
 
         System.out.println("Ola, Mundo");
+
         // palavras reservadas
         final String PAIS = "Brasil";
         System.out.println(PAIS);
