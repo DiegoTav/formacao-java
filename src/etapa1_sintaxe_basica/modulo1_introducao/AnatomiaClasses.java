@@ -1,8 +1,8 @@
-// Anotações do Topico: Anatomia de classes
+package etapa1_sintaxe_basica.modulo1_introducao;
 
-public class MinhaClasse {
-
+public class AnatomiaClasses {
     public static void main(String[] args) {
+
         System.out.println("Ola, Mundo");
 
         // Final indica que nao pode ser alterada, nome todo em caixa alta.
