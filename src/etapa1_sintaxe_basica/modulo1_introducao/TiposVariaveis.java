@@ -1,6 +1,6 @@
 package etapa1_sintaxe_basica.modulo1_introducao;
+// Anotações do topico: TIPOS E VARIAVEIS
 
-// Classe demonstrativa sobre Tipos e Variáveis em Java
 public class TiposVariaveis {
     public static void main(String[] args) {
 

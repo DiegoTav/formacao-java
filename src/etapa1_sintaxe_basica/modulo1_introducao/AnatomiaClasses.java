@@ -1,5 +1,6 @@
 package etapa1_sintaxe_basica.modulo1_introducao;
 
+// Anotações do topico: ANATOMIA DE CLASSES
 public class AnatomiaClasses {
     public static void main(String[] args) {
 
@@ -18,7 +19,7 @@ public class AnatomiaClasses {
 
     }
 
-    // Metodo
+    // === METODO ===
     public static String nomeCompleto(String primeiroNome, String segundoNome) {
         return "Resultado do metodo " + primeiroNome.concat(" ").concat(segundoNome);
 
