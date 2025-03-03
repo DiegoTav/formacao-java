@@ -5,9 +5,9 @@ package etapa1_sintaxe_basica.modulo1_introducao.exercicios_praticos;
 
   Requisitos da TV:
 
-  1.0. Liga e Desliga TV
+  1.0. Liga e Desliga a TV
 
-  2.0. Aumenta e diminui o volume a partir
+  2.0. Aumenta e diminui o volume
   2.1. O intervalo do volume vai de 0 a 100
 
   3.0. Incrementa e decrementa canais 
