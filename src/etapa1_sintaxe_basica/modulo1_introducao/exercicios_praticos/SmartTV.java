@@ -1,6 +1,6 @@
 package etapa1_sintaxe_basica.modulo1_introducao.exercicios_praticos;
 
-// === Exercicio pratico: "METODOS" ===
+// === Exercicio pratico ===
 
 /* Criar uma classe para representar uma SmarTV onde:
  * 
@@ -8,12 +8,12 @@ package etapa1_sintaxe_basica.modulo1_introducao.exercicios_praticos;
  * Poderá ligar e desligar mudando o estado ligada;
  * Aumentará e Diminuirá o volume sempre em +1 ou -1;
  * Podera mudar de canal de 1 em 1 ou definindo o numero correspondente
- */ 
+ */
 
 /* === Observacoes ===
  * 
  * Resposta proposta por mim a partir dos conteudos estudados 
- * até o momento e aprimorada usando IA
+ * até o momento 
  */
 
 public class SmartTV {
