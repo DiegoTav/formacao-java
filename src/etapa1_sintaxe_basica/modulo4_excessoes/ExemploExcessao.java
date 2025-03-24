@@ -1,4 +1,4 @@
-package etapa1_sintaxe_basica.modulo3_excessoes;
+package etapa1_sintaxe_basica.modulo4_excessoes;
 
 import java.text.NumberFormat;
 import java.text.ParseException;
